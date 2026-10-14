@@ -1,0 +1,6 @@
+{
+  "name": "GameBox",
+  "description": "All-in-one mobile gaming console featuring playable arcade, puzzle, classic, brain, and casual mini-games with profiles, achievements, and stats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
